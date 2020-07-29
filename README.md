@@ -1,6 +1,6 @@
 # Machine-Learning-based-Video-Quality-Assessment
 This repository contains the report and source codes of my final-year project of the course of EIE4433: Honours Project of the [Department of Electronic and Information Engineering (EIE)](https://www.eie.polyu.edu.hk/home/index.html), the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
-One important aim of this subject is "learning by doing", which I am required to employ the skills and knowledge gained from other previous courses, and apply them to develop solutions to resolve problems.
+One of the crucial aims of this subject is "learning by doing", which I am required to employ the skills and knowledge gained from other previous courses, and apply them to develop solutions to resolve problems.
 
 To know more about EIE4433, you may read its description on [P.24](https://www.eie.polyu.edu.hk/docs/Programmes/Programme_Booklets/4year/42470/42470-BEngEIE-1920-Aug2019.pdf#page=30) and its syllabus on [P.254-256](https://www.eie.polyu.edu.hk/docs/Programmes/Programme_Booklets/4year/42470/42470-BEngEIE-1920-Aug2019.pdf#page=260) from the [BEng(Hons) in Electronic and Information Engineering Programme Booklet (2019/20)](https://www.eie.polyu.edu.hk/docs/Programmes/Programme_Booklets/4year/42470/42470-BEngEIE-1920-Aug2019.pdf).
 
