@@ -45,7 +45,7 @@ Upon the completion of this project, the outcomes of the trained NR-VQA model wi
 6.	Compare the performance of the proposed NR-VQA with those of FR-VQA
 
 ## Brief Information of the Project Development Environment
-Below is some basic information to build the program for this project:
+Below is some tools I used to build the program for this project:
 
 #### Required Hardware
 | Name  | Requirements |
