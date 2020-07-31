@@ -71,7 +71,7 @@ Below are some tools I used to build the program for this project:
 | Openpyxl | Manipulates Excel Files |
 
 ## Other Details of the Research and Development of the Project
-Others details of how I carried out research on this project and the development of the software program can be referred to the [project report](https://drive.google.com/file/d/1rEQtmSKbfx9cAtAdCwc_DFayULRhNQfg/view?usp=sharing).
+Others details of how I carried out research on this project and the development of the software program can be referred to the project report on [Github](https://github.com/NJoyceHo/Machine-Learning-based-Video-Quality-Assessment/blob/master/Machine-Learning-based-Video%20Quality-Assessment_Report_NJoyceHo.pdf) / [Google Drive](https://drive.google.com/file/d/1rEQtmSKbfx9cAtAdCwc_DFayULRhNQfg/view?usp=sharing).
 
 ## Results
 The best trained model is of 6 PCs with 20 hidden nodes at 4857th epoch. The testing set loss (mean squared error) and its Pearson correlation coefficient are 1.6124 and 0.8479, respectively. 
