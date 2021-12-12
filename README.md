@@ -4,6 +4,9 @@ One of the crucial aims of this subject is "learning by doing", which I am requi
 
 To know more about EIE4433, you may read its description on [P.24](https://www.eie.polyu.edu.hk/docs/Programmes/Programme_Booklets/4year/42470/42470-BEngEIE-1920-Aug2019.pdf#page=30) and its syllabus on [P.254-256](https://www.eie.polyu.edu.hk/docs/Programmes/Programme_Booklets/4year/42470/42470-BEngEIE-1920-Aug2019.pdf#page=260) from the [BEng(Hons) in Electronic and Information Engineering Programme Booklet (2019/20)](https://www.eie.polyu.edu.hk/docs/Programmes/Programme_Booklets/4year/42470/42470-BEngEIE-1920-Aug2019.pdf).
 
+## Acknowledgments
+I wish to thank my project supervisor [Dr. Yui-Lam Chan](http://www.eie.polyu.edu.hk/~ylchan/) and tutor Mr. Ngai-Wing Kwong, Titan of the EIE Department for their valuable guidance and suggestions on the development of this research project.
+
 ## Project Introduction
 In the past, when the internet had not been well developed yet, television was the sole source for broadcasting videos. Nonetheless, times have changed. Communication technology becomes more and more advanced. Today’s audience does not only rely on the traditional medium to enjoy videos. Instead, there is an increasing tendency of viewing them on online streaming platforms such as Netflix and YouTube. The rising demand for video streaming services leads to the competitive market of those websites. For this reason, service providers have come to an awareness of how viewers perceive videos, which is also known as Quality of Experience (QoE). In order to control and optimise the standard of their services, Video Quality Assessments (VQA) are conducted to study the influences of video distortion toward QoE.
 
